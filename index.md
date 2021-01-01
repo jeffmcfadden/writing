@@ -5,7 +5,6 @@
 layout: default
 ---
 
-
 <p>
   [Stories](/stories)
   <br />[Poems](/poems)

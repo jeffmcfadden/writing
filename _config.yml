@@ -27,6 +27,9 @@ url: "http://jeffwrites.mcfadden.io" # the base hostname & protocol for your sit
 twitter_username: mcphat
 github_username:  jeffmcfadden
 
+kramdown:  
+  parse_block_html: true
+  
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
