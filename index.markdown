@@ -5,4 +5,8 @@
 layout: default
 ---
 
-Hello
+
+<p>
+  [Stories](/stories)
+  <br />[Poems](/poems)
+</p>
