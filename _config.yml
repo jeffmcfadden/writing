@@ -27,6 +27,12 @@ url: "http://jeffwrites.mcfadden.io" # the base hostname & protocol for your sit
 twitter_username: mcphat
 github_username:  jeffmcfadden
 
+collections_dir: collections
+
+collections:
+  artifacts_chapters:
+    output: true
+
 kramdown:  
   parse_block_html: true
   
