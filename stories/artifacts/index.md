@@ -7,12 +7,10 @@ layout: default
 
 <h1>4 Artifacts</h1>
 
-<ul>
-  {% for chapter in site.artifacts_chapters %}
-  <li>
+<h3>Table of Contents</h3>
+<p>{% for chapter in site.artifacts_chapters %}
     <a href="{{ chapter.url }}">
       Chapter {{ chapter.ordinal }} — {{ chapter.title }}
     </a>
-  </li>
-  {% endfor %}
-</ul>
+    
+{% endfor %}</p>

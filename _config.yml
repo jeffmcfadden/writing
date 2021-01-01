@@ -32,6 +32,8 @@ collections_dir: collections
 collections:
   artifacts_chapters:
     output: true
+  poems:
+    output: true
 
 kramdown:  
   parse_block_html: true
